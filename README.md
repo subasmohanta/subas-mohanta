@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm subas mohanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3> 
 
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?t=st=1744008069~exp=1744011669~hmac=d8c1372e0ee5e991ed3ef0210ae50415346d71595758dcc863dae36533d513be&w=1380
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/46578d37-b5dc-478b-bbe7-d4407e121068)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subasmohanta&label=Profile%20views&color=0e75b6&style=flat" alt="subasmohanta" /> </p>
 
