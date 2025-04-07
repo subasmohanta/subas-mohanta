@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm subas mohanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3> 
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/46578d37-b5dc-478b-bbe7-d4407e121068)
+<img align="right" alt="coding" width="400" src="![WhatsApp Image 2025-04-05 at 14 16 06_cee3d18f](https://github.com/user-attachments/assets/d68f1521-0fb8-4db9-8444-920ebd675123)">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subasmohanta&label=Profile%20views&color=0e75b6&style=flat" alt="subasmohanta" /> </p>
